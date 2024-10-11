@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Monastir-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20French%20%26%20Arabic-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amal Maatoug </h1>
