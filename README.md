@@ -9,8 +9,6 @@
 </p>
 <hr>
 
- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-
 <p align="center">
   <em>
   Hello, I am Amal Maatoug, a final-year software engineering student at the <a href="https://uom.lk/"><b>University of Monastir</b>, Higher Institute of Computer Science and Mathematics of Monastir ("ISIMM")</a>. <br> I am a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a software engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">,<br> obsessed with new technologies, constantly striving to optimize software solutions.
@@ -31,7 +29,7 @@
 <b><i align="center">Thought : "Growth begins where comfort ends.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
