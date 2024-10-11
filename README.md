@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Mona%20stir-success" />
+  <img src="https://img.shields.io/badge/Lives-Monastir-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
 </p>
 <hr>
