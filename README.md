@@ -42,8 +42,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
  
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-
+  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
