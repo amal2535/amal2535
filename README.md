@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amal Maatoug </h1>
 <h3 align="center">Software Engineer | FullStack Developer </h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=amal2535&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
@@ -94,7 +91,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 17/04/2021
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=amal2535&color=brightgreen" alt="watching_count" />
+ </p>
