@@ -1,6 +1,7 @@
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  <br>
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <br><br><br><br>
+  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amal Maatoug </h1>
 <h3 align="center">Software Engineer | FullStack Developer </h3>
  <p align="center">
