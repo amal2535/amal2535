@@ -28,7 +28,7 @@
   <a href="https://www.facebook.com/profile.php?id=100008695418330&mibextid=ZbWKwL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
- <a href="mailto:maatougamal1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="blank">
+ <a href="mailto:maatougamal1@gmail.com?subject=Feedback%20From%20Github&body=Hello" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="example" height="30" width="40"/>
   </a>
 </p>
@@ -67,7 +67,10 @@
   <code> <img height="50" src="  https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
-
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
