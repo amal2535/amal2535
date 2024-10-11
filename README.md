@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amal Maatoug </h1>
-<h3 align="center">Software Engineer | FullStack Developer </h3>
+<h3 align="center">Software Engineer | FullStack Developer </h3><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
@@ -26,7 +26,7 @@
   <br>
 <b><i align="center">Thought : "Growth begins where comfort ends.”</i></b>
 </p>
-<br><br>
+<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -34,7 +34,7 @@
 ✔ Open to collaboration on any open-source projects😊 <br>
 ✔I'm always ready to help; just ask me anything!🥰<br>
 ✔ Committed to personal growth and continuously improving my technical abilities in programming.<br>
-✔ Fun Fact: I enjoy learning something new each day to enhance my knowledge retention.😎<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+✔ Fun Fact: I enjoy learning something new each day to enhance my knowledge retention.😎<br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
