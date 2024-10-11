@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
  <a href="mailto:maatougamal1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="example"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="example" height="30" width="40"/>
   </a>
 </p>
   <br>
