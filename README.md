@@ -28,6 +28,9 @@
   <a href="https://www.facebook.com/profile.php?id=100008695418330&mibextid=ZbWKwL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100008695418330&mibextid=ZbWKwL" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/f.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
 </p>
   <br>
 <b><i align="center">Thought : "Growth begins where comfort ends.”</i></b>
@@ -47,7 +50,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
  
-  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  </code>
+  <code><img width ='32px' src ='https://www.vectorlogo.zone/logos/python/python-ar21.svg'>  </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
