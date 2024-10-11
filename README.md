@@ -36,11 +36,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  Open to collaboration on any open-source projects😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔Passionate about software engineering and always eager to tackle new challenges.
+✔ Open to collaboration on any open-source projects😊 <br>
 ✔I'm always ready to help; just ask me anything!🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Committed to personal growth and continuously improving my technical abilities in programming and web development.
 ✔ Fun Fact: I enjoy learning something new each day to enhance my knowledge retention.😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
