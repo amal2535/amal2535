@@ -1,3 +1,5 @@
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Amal Maatoug </h2>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amal Maatoug </h1>
 <h3 align="center">Software Engineer | FullStack Developer </h3>
  <p align="center">
