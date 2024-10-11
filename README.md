@@ -39,7 +39,7 @@
 ✔Passionate about software engineering and always eager to tackle new challenges.<br>
 ✔ Open to collaboration on any open-source projects😊 <br>
 ✔I'm always ready to help; just ask me anything!🥰<br>
-✔ Committed to personal growth and continuously improving my technical abilities in programming and web development.<br>
+✔ Committed to personal growth and continuously improving my technical abilities in programming.<br>
 ✔ Fun Fact: I enjoy learning something new each day to enhance my knowledge retention.😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
