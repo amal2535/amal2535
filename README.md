@@ -11,10 +11,9 @@
 
 <p align="center">
   <em>
-  Hello, I am Amal Maatoug, a final-year software engineering student at the <a href="https://uom.lk/"><b>University of Monastir</b>, Higher Institute of Computer Science and Mathematics of Monastir ("ISIMM")</a>. <br> I am a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a software engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">,<br> obsessed with new technologies, constantly striving to optimize software solutions.
+  Hello, I am Amal Maatoug, a final-year software engineering student at the <a href="https://uom.lk/"><b>University of Monastir</b>, Higher Institute of Computer Science and Mathematics of Monastir ("ISIMM")</a>. <br> I am a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a software engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">,<br> obsessed with new technologies, constantly striving to optimize software solutions.  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
   </em> 
   <br>
-
   <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amal-maatoug-660476202/" target="blank"><img align="center"
@@ -23,11 +22,9 @@
   <a href="https://www.facebook.com/profile.php?id=100008695418330&mibextid=ZbWKwL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-
 </p>
   <br>
-<b><i align="center">Thought : "Growth begins where comfort ends.”</i></b>  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-
+<b><i align="center">Thought : "Growth begins where comfort ends.”</i></b>
 </p>
 <br><br>
 
