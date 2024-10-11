@@ -77,6 +77,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"> </code>
+    <code> <img height="50" src="  https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> </code>
+
 
   <hr>
   <p align="center">
