@@ -12,9 +12,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Amal Maatoug a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Monastir</b>, Higher Institute of Computer Science and Mathematics of Monastir  ("ISIMM")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>new technologies </b> and always looking to optimize software solutions.
+  Hello, I am Amal Maatoug, a final-year software engineering student at the <a href="https://uom.lk/"><b>University of Monastir</b>, Higher Institute of Computer Science and Mathematics of Monastir ("ISIMM")</a>. <br> I am a passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a software engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">,<br> obsessed with new technologies, constantly striving to optimize software solutions.
   </em> 
   <br>
 
