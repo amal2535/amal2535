@@ -28,9 +28,9 @@
   <a href="https://www.facebook.com/profile.php?id=100008695418330&mibextid=ZbWKwL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="maatougamal1@gmail.com" target="blank"><img align="center"
-      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+ <a href="mailto:maatougamal1@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
 </p>
   <br>
 <b><i align="center">Thought : "Growth begins where comfort ends.”</i></b>
