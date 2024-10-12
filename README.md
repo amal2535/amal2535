@@ -53,8 +53,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
  
-  <code><img height="50" src ='https://www.vectorlogo.zone/logos/python/python-ar21.svg'>  </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <img height="50" src ='https://www.vectorlogo.zone/logos/python/python-ar21.svg'>  
+   <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
