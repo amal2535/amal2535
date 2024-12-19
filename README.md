@@ -88,8 +88,12 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amal2535&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amal2535&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal2535&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amal2535&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal2535&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div><br><br><br><br><br>
 
 <hr>
 
